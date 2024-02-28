@@ -1,0 +1,12 @@
+- OmniDocs is an enterprise document management system (DMS).
+- It can create documents, capture documents, manage documents, deliver documents through various mediums, archive large volume documents.
+- It has an online repository where it stores documents and it is highly scalable. It provides document management, secure storage, and a unified repository.
+- Advanced features: Rights based archives, centralised repository, document and folder searches, and document life cycle management.
+- Centralised repository: Multi-source information storage, manage disparate content sources, manage disparate repositories.
+- Rights Based Archives: Secure content archival, archive documents and forms from SharePoint, compress, archive and distribute reports, instantly search and retrieve reports in real time.
+- Document Life Cycle Management: Management of complete life cycle of documents, document record retention, document storage, document retrieval policies.
+- Document and Folder searches: Supporting exhaustive document and folder searches, date based searches, index based searches, general parameters based search, full text search (FTS) on image and electronic documents.
+- ![[Pasted image 20240227111810.png]]
+- ![[Pasted image 20240227142239.png]]
+- ![[Pasted image 20240227143826.png]]
+- 

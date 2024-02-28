@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "f22ea542c74a1083",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8227d5f9aeafa1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e43696d2ba3dbcf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems (Udacity)/OS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ca5de725d740fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c665bac955b214eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf36672ceef50e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "565938e1d5736542",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bff44916e2b99190",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0ea24481d8307de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c166ef24f0538d3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2690936638a0536",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating Systems (Udacity)/OS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "244b944b2e0f8e7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating Systems (Udacity)/OS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f3920e5ddffaf01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0ef8a34678d6538",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating Systems (Udacity)/OS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e43696d2ba3dbcf0",
+  "lastOpenFiles": [
+    "Pasted image 20240228152033.png",
+    "Pasted image 20240227173011.png",
+    "Pasted image 20240227172840.png",
+    "Pasted image 20240227172745.png",
+    "Pasted image 20240227170604.png",
+    "Pasted image 20240227170403.png",
+    "Pasted image 20240227170231.png",
+    "Pasted image 20240227165438.png",
+    "Pasted image 20240227164732.png",
+    "Pasted image 20240227164552.png",
+    "Pasted image 20240227164124.png",
+    "Training Notes/AEEP/OmniDocs.md",
+    "Operating Systems (Udacity)/OS.md",
+    "Operating Systems (Udacity)",
+    "Training Notes/AEEP/OmniDocs Architecture.md",
+    "Training Notes/AEEP",
+    "Training Notes/Java/Day 5.md",
+    "Training Notes/Java/Day 1.md",
+    "Training Notes/Java.md",
+    "Training Notes/Java",
+    "Training Notes/Day 5 - Feb 9.md",
+    "Training Notes",
+    "Welcome.md"
+  ]
+}

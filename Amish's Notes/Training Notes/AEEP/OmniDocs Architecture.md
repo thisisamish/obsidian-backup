@@ -1,0 +1,28 @@
+- OmniDocs is an enterprise DMS (Document Management System) or an ECM suite (Enterprise Content Management) suite.
+- Two modes - Admin and Web
+- Other major apps of Newgen are iBPS and NewgenONE.
+- iBPS digitizes the entire form filling and approval process (e.g. passport office).
+- Hierarchical storage of documents (like file system)
+- Secure storage and retrieval
+- Files are stored in PN files which are highly secure.
+- Two main services - wrapper and sms
+- SMS stores and retrieves documents
+- Wrapper helps in communication between servers
+- JBOSS, Weblogic, websphere - OmniDocs can be deployed here
+- Oracle, Postgres, MSSQL - OminDocs works with these three databases
+- Has replicated remote servers
+- Newgen's products' APIs mostly work on XML
+- Volume, label and site - we need to put them when we install OmniDocs
+- Label stores documents
+- Site has a set limit of storage
+- Volume and wallblocks are related
+- PN files are also called wallblocks. they can be of 50, 100 or 150 mb.
+- PN files are stored in sites.
+- OmniDocs is rights-based.
+- All rights are given to supervisor and supervisor2.
+- Database has user details and their rights config saved.
+- One JBOSS instance can handle 300-400 users.
+- OmniDocs 11 is written in React. Earlier it was in Angular. Earlier than that, it was in JSP.
+- OmniDocs 11 features: thumbnail view, personalised dashboard, document annotations and stamps, comprehensive search, Newgen OmniDocs ECM Suite on Cloud, design workflows, OmniDocs app on mobile, document versioning
+- Metadata of documents/folders are stored in Dataclasses.
+- 

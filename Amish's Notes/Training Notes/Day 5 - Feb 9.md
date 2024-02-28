@@ -1,0 +1,3 @@
+- Three types of errors: Logical, Syntax and Runtime
+- Error Handling in JS: try, catch, finally. We also have throw to throw our own custom error. finally block will always execute.
+- 
